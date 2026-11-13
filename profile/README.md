@@ -6,5 +6,3 @@ things I pick up while building: notes, exercises, and experiments.
 - Each repository is self-contained: clone only what you need; there is no monorepo.
 - Repos are named after the thing being learned, not the lesson number.
 - Code is often deliberately rough: the goal is to understand the concept, not to ship it.
-
-More about the idea: [tilabt/tilabt](https://github.com/tilabt/tilabt).
