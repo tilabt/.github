@@ -7,4 +7,4 @@ things I pick up while building: notes, exercises, and experiments.
 - Repos are named after the thing being learned, not the lesson number.
 - Code is often deliberately rough: the goal is to understand the concept, not to ship it.
 
-Created by [nnivxix](https://github.com/nnivxix)
+Managed by [nnivxix](https://github.com/nnivxix)
